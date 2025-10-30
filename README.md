@@ -18,4 +18,4 @@
     </div>
 
 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky891&theme=dracula&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sky891&show_icons=true&theme=dracula)
